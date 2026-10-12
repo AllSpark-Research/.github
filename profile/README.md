@@ -1,11 +1,14 @@
+
 ## Welcome to AllSpark 👋
 
-AllSpark is an AI research team at Xiaohongshu building unified, general-purpose, multimodal **Agent Foundation Models**.
+AllSpark is Xiaohongshu's AI research team advancing the frontier of agent intelligence through unified, general-purpose multimodal **Agent Foundation Models**.
 
-Our work spans data, evaluation, and training—from mid-training and SFT to reinforcement learning and on-policy distillation. We bring these capabilities to products across Xiaohongshu, helping users discover, create, and connect every day.
+We explore how agents learn, reason, and improve through mid-training, supervised fine-tuning, reinforcement learning, and on-policy distillation.
 
-🤗 [Hugging Face](https://huggingface.co/AllSpark-Research) · 🧠 [Models](https://huggingface.co/AllSpark-Research/models) · 📄 [Papers](https://huggingface.co/AllSpark-Research/papers) · 🔴 [Xiaohongshu (小红书)](https://www.xiaohongshu.com/user/profile/66606ecf000000000303012d)
+We bring these capabilities to products across Xiaohongshu, helping users discover, create, and connect every day.
 
-## Join Us
+𝕏 [X.com](https://x.com/AllSpark_Pevek) · 🤗 [Hugging Face](https://huggingface.co/AllSpark-Research) · 🧠 [Models](https://huggingface.co/AllSpark-Research/models) · 📄 [Papers](https://huggingface.co/AllSpark-Research/papers) · 🔴 [Xiaohongshu (小红书)](https://www.xiaohongshu.com/user/profile/66606ecf000000000303012d)
+
+## To Join Us
 
 We recruit **Research Interns year-round**. If you are interested in joining AllSpark, please send your **CV** to [allspark@xiaohongshu.com](mailto:allspark@xiaohongshu.com) or apply through the [Xiaohongshu recruitment portal](https://hr.xiaohongshu.com/recommend/job-list/XHSRC-3cfe7380a27bbdacd7c2fc579d2a2ca0).
