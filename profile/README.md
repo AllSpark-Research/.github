@@ -8,4 +8,4 @@ Our work spans data, evaluation, and training—from mid-training and SFT to rei
 
 ## Join Us
 
-We recruit **Research Interns year-round**. If you are interested in joining AllSpark, please send your **CV** to [allspark@xiaohongshu.com](mailto:allspark@xiaohongshu.com).
+We recruit **Research Interns year-round**. If you are interested in joining AllSpark, please send your **CV** to [allspark@xiaohongshu.com](mailto:allspark@xiaohongshu.com) or apply through the [Xiaohongshu recruitment portal](https://hr.xiaohongshu.com/recommend/job-list/XHSRC-3cfe7380a27bbdacd7c2fc579d2a2ca0).
