@@ -7,7 +7,7 @@ We explore how agents learn, reason, and improve through mid-training, supervise
 
 We bring these capabilities to products across Xiaohongshu, helping users discover, create, and connect every day.
 
-𝕏 [X.com](https://x.com/AllSpark_Pevek) · 🤗 [Hugging Face](https://huggingface.co/AllSpark-Research) · 🧠 [Models](https://huggingface.co/AllSpark-Research/models) · 📄 [Papers](https://huggingface.co/AllSpark-Research/papers) · 🔴 [Xiaohongshu (小红书)](https://www.xiaohongshu.com/user/profile/66606ecf000000000303012d)
+𝕏 [X.com](https://x.com/AllSparkTeam) · 🤗 [Hugging Face](https://huggingface.co/AllSpark-Research) · 🧠 [Models](https://huggingface.co/AllSpark-Research/models) · 📄 [Papers](https://huggingface.co/AllSpark-Research/papers) · 🔴 [Xiaohongshu (小红书)](https://www.xiaohongshu.com/user/profile/66606ecf000000000303012d)
 
 ## To Join Us
 
